@@ -1,2 +1,2 @@
 # economic_soap
-buscar sopa mas económico
+buscar soap mas económico
